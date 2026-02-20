@@ -8,4 +8,4 @@ function nextSlide(){
   slides[current].classList.add('active');
 }
 
-setInterval(nextSlide, 4000); // Slide every 4 seconds
+setInterval(nextSlide, 4000); // Slide every 2 seconds
